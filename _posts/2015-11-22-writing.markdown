@@ -1,0 +1,10 @@
+---
+published: true
+title: Writing
+layout: post
+---
+Writing is good if you know what to write and when to write. 
+
+Today i began my own blog using github pages with little help from tinypress.co (thank you guys, very good job there), this blog will help me improve my skills in writing english and also because i have to write it down in markdown format, it would help to imrpove that skill too.
+
+I will focusing on writing new stuff about iOS, Objective C, swift and anything in this area here. 
