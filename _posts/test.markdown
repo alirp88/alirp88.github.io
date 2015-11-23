@@ -1,7 +1,7 @@
 ---
 published: true
 title: Test
-layout: post
+layout: page
 tags: [Ali, Riahipour, test, stuff]
 ---
 Some thing here
