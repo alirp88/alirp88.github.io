@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: About Writing
+title: CV
 ---
 
 #Ali Riahipour
