@@ -14,10 +14,8 @@ Seeking a software developer position that will match my technical skills and co
 
 ##Computer Skills:
 
-Languages: Objective C, Swift, iOS SDK, Java, Android SDK, HTML, CSS,Node JS, PHP, JavaScript, Visual Basic, C#, C++, Matlab, LaTex
-Software: Xcode, Eclipse, MS Visual Studio, Adobe Photoshop,MS Office
-Databases: Oracle, MySQL, MS SQL Server, PLSQL
-Operating Systems: Mac OS X, Windows, Linux
+Languages: Objective C, Swift, iOS SDK, Node.js, PHP, JavaScript<br>
+Software: Xcode, Eclipse, PhpStorm<br>
 
 
 ##Experience:
@@ -33,7 +31,7 @@ Operating Systems: Mac OS X, Windows, Linux
 Rahyar: An offline map of iran with ability to show routing between two given points. 
 [http://my.sibche.ir/app/details/id/949/name/Rahyar](http://my.sibche.ir/app/details/id/949/name/Rahyar)		
 	- Sibche: An app store for iranian developers and users of iOS devices.
-+ Infotech pars Co. as    Android Developer and iOS Developer (October 2013 to July 2014)
++ Infotech pars Co. as Android Developer and iOS Developer (October 2013 to July 2014)
 
 	- Responsible for developing Infoteach and Infobank
 	- Infoteach: A flashcard application for kids on Android devices. known as Arvin in cafebazaar Android Market in Iran. 
