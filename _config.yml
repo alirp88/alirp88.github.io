@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: https://riahipour.com
 title: Ali Riahipour
-tagline: iOS F***ing developer
+tagline: Basic life of an iOS developer
 description: My awesome new site
 paginate: 5
