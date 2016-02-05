@@ -2,7 +2,7 @@
 layout: page
 title: CV
 ---
-#Ali Riahipour
+# Ali Riahipour
 
 Address: No. 397, 11th Entry, Block D2, Ekbatan Complex, Tehran, Iran<br>
 Date of Birth: 19/2/1991<br>
@@ -13,13 +13,13 @@ Email: riahipour.ali [at] gmail.com
 <!-- ##Objective: 
 Seeking a software developer position that will match my technical skills and contribute towards the company’s success. !-->
 
-##Computer Skills:
+## Computer Skills:
 
 Languages: Objective C, Swift, iOS SDK, Node.js, PHP, JavaScript<br>
 Software: Xcode, Eclipse, PhpStorm<br>
 
 
-##Experience:
+## Experience:
 
 + Snapp Co. (Formerly Taxiyaab Co.) as iOS Developer (January 2015 - Current)
  
@@ -50,7 +50,7 @@ Configuring Apache Hadoop on 10 computers and run a cluster contains 10 slaves. 
 	- Working to expand the existing Core Banking System.
 	- Developed LC (Letter of Credit) Module for the Core Banking System.
 
-##Education:
+## Education:
 + B.S. degree in Computer Engineering 2009-2013
 	- Major: Software Development
 	- GPA: 3.2/4
@@ -58,6 +58,6 @@ Configuring Apache Hadoop on 10 computers and run a cluster contains 10 slaves. 
  
 
 
-##Languages:
+## Languages:
 + Persian (native)
 + English (working knowledge)
