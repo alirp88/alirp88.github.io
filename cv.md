@@ -15,15 +15,12 @@ Seeking a software developer position that will match my technical skills and co
 
 ## Computer Skills:
 
-Languages: Objective C, Swift, iOS SDK, Node.js, PHP, JavaScript<br>
-Software: Xcode, Eclipse, PhpStorm<br>
-
+Languages: Objective C, Swift, iOS SDK<br>
 
 ## Experience:
 
 + Snapp Co. (Formerly Taxiyaab Co.) as iOS Developer (January 2015 - Current)
  
-   - [https://itunes.apple.com/us/app/snapp-asnp/id996370173?ls=1&mt=8](https://itunes.apple.com/us/app/snapp-asnp/id996370173?ls=1&mt=8)
 	- Responsible for developing Snapp app
 	- Snapp is an app for finding a taxi in the city, something like Uber
 
