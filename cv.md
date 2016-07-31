@@ -22,7 +22,8 @@ Languages: Objective C, Swift, iOS SDK<br>
 + Snapp Co. (Formerly Taxiyaab Co.) as iOS Developer (January 2015 - Current)
  
 	- Responsible for developing Snapp app
-	- Snapp is an app for finding a taxi in the city, something like Uber
+	- Snapp is an e-hailing app for Tehran
+	- [https://itunes.apple.com/us/app/snapp-asnp/id996370173?ls=1&mt=8](https://itunes.apple.com/us/app/snapp-asnp/id996370173?ls=1&mt=8)
 
 + TOD Co. as iOS Developer (July 2014 - January 2015)
 
