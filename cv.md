@@ -30,7 +30,7 @@ Languages: Objective C, Swift, iOS SDK<br>
 	- Responsible for developing Rahyar and debugging of Sibche
 Rahyar: An offline map of iran with ability to show routing between two given points. 
 [http://my.sibche.ir/app/details/id/949/name/Rahyar](http://my.sibche.ir/app/details/id/949/name/Rahyar)		
-	- Sibche: An app store for iranian developers and users of iOS devices.
+	- Sibche: An app store for Iranian developers and users of iOS devices.
 + Infotech pars Co. as Android Developer and iOS Developer (October 2013 to July 2014)
 
 	- Responsible for developing Infoteach and Infobank
