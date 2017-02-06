@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/alirp88
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://riahipour.com
+  * I am alirp88 (https://keybase.io/alirp88) on keybase.
+  * I have a public key with fingerprint 98AB E053 15AD 4068 F37B  052C DAE6 72CA 1A9A 044A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012062f06b2c0e9547bb322b27934c9a5c74efc83856b9b70939ddb841ee69fb44c50a",
+            "fingerprint": "98abe05315ad4068f37b052cdae672ca1a9a044a",
+            "host": "keybase.io",
+            "key_id": "dae672ca1a9a044a",
+            "kid": "01014ddd5c64c5d0d574d3ffa8d841bed7c6e51ff073dd2b61bc2c03d93ff3b71c280a",
+            "uid": "91b2d6002c87148e67a8b0f1e4002b19",
+            "username": "alirp88"
+        },
+        "service": {
+            "hostname": "riahipour.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486379256,
+    "expire_in": 157680000,
+    "prev": "cf2835672494e14caf5bacb836d04bcec4d34c6154ebce96e3617952898f9f06",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMNwAnicbVJtUFRVGF6+nFpUiCIKhhavQiYL3e8PoNFEtLQCNGpRmuWee89drix7
+l7uX5cPAchAKp5QMwo/yozEzGYOAgZqEQKcg0XEIGoQ0EKxwjKYmsVGhzjL6r/Pn
+zHnP8zzv8z7znl0UYDL7jfyifx+5P3C937nuhiKTrcH2zzYMaHIplrQNy4fzF3TK
+0GPY81UZS8JwgsRZUsFZQEo4FBiaA4AiSUByAkVLgshIHA0Viad4hgUC4HCBEmQZ
+8DQBISsogKYlBhcxK6aoLgfU3brqMpCswIsA4gxFMKJM4yyvUBzAGVKSRchypCQS
+oiDiNO0j5mkeHwOZA6IHJqoaqqGHfd7e/+Dv+8YJWpZlRmKRAxmXGY6WKUUReRl5
+A1DmJBYyhKLgHCXLJGAJIKEJKVlAIApwhETy876L5uUEApAyi+OkxHMEzaOmIg9w
+hYA0qgFC8AE9UHeJBRChRaequ3keK7diqOhVJejL1TfIPYCuinmqWyvSEyWtAHHd
+umZokuZEX3mG4fYk+ahGqduHLYbAfk/FDlSXjHJEDC/UParmwpIIhJQM1SeLjLEU
+J5AMa8VgiVvVoV31IRiO5XF0fH2gF0lKCslTDAqOFmhI0JKoMECUAE+xMk4DCUoo
+KlpiCYaG6CWwkGIJTmBIXuAVAe0C5pur0KUhbQr5FB1I06M6XKJRpEOsvKc7J9Dk
+ZzYtCPL3LZjJ/GDo/bWLqAqZDX9/RULMXwEJWX9aql46eOLWe48PV+lyzYhnXcUc
+9W5R7aK9cZWlu8Ulk+tahc8qdz65p/6AvURPOTm2cm/t3YQ2+fneiU/bD9W6x7Zz
+zzZOnfhupi7wqY26M7i99/KyfcNRYde2Tjb4d74xdj5W+3bV+Q4RG1va0Xknp/O3
+B/wOttumfz5i+zp0MNeY06yZEQuvR4Tl1Hg3FlotH9Sf6933xO2ZU/Vzu65lZy4x
+Z3gLqPKXwa2Y5Mnw348d3v3o1UObBiMqgqXDF9OsjctDwObe4RsJ2wff3LGpPy7U
+nDmxypKe2n+g0fbJx19NDYYl/jjOENGjcYFRQROvpKyILr/CmVuLjbKPyD1RxOZL
+azacvDG5+k7Z8S2v75Lsp5xHVw4diykoy/9wNuO51q7Zi/0h143+oPbFa/wJ/kpM
+X2VL9k+Onvb0v7uO3kz595sN6baB+NzUSFNbj5yS80iYd+LMuAULaM7ZUoiDF6ez
+mt4pnyx5rKPu5t2+tDi49nTsmD2uPnuIjjLO7J8zX+57+2q3EX2hX2tpCs9LzV2r
+9j8c/EciVZNcMpDWvPStxopL8U3awrStzd7IC7ge9gI97qw7/Vp19vLjllTDOPKr
+ZfEoKDo7s2NBln3ZF0N+tx/qiaXTdTy5xfH5KN72w0jTM7Xg1emp4qed1V+mVgzU
+dVV3VVcSOx0ZLfHrzf8Bnsi73w==
+=SSXB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alirp88
+
+==================================================================
