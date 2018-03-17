@@ -60,3 +60,4 @@ Configuring Apache Hadoop on 10 computers and run a cluster contains 10 slaves. 
 ## Languages:
 + Persian (native)
 + English (working knowledge)
++ German (Basic)
