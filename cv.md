@@ -6,7 +6,6 @@ title: CV
 
 Address: Berlin, Germany<br>
 Date of Birth: 19/2/1991<br>
-Tel:+49 152 21474827<br>
 Email: riahipour.ali [at] gmail.com
 
 
