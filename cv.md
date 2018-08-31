@@ -15,7 +15,7 @@ Languages: Objective C, Swift, iOS SDK<br>
 
 ## Experience:
 
-+ Gastrofix GmbH as iOS Developer (Berlin, Germany)(May 2017 - Current)
++ Gastrofix GmbH as iOS Developer (Berlin, Germany)(May 2018 - Current)
 
 	- Responsible for developing and maintaining Gastrofix POS app
 	- [https://itunes.apple.com/de/app/gastrofix-pos/id523627582?mt=8](https://itunes.apple.com/de/app/gastrofix-pos/id523627582?mt=8)
