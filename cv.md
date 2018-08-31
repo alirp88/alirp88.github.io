@@ -11,7 +11,7 @@ Email: riahipour.ali [at] gmail.com
 
 ## Computer Skills:
 
-Languages: Objective C, Swift, iOS SDK<br>
+Languages: Swift, Objective C<br>
 
 ## Experience:
 
