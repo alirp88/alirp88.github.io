@@ -36,7 +36,7 @@ Rahyar: An offline map of iran with ability to show routing between two given po
 
   * Responsible for developing Infoteach and Infobank
   * Infoteach: A flashcard application for kids on Android devices. known as Arvin in cafebazaar Android Market in Iran. 
-[http://cafebazaar.ir/app/com.infotech.infoteach/?l=en]([http://cafebazaar.ir/app/com.infotech.infoteach/?l=en])
+[http://cafebazaar.ir/app/com.infotech.infoteach/?l=en](http://cafebazaar.ir/app/com.infotech.infoteach/?l=en)
   * Infobank: A Mobile bank application on Android devices. This application is run on Android devices, use web service for transactions and provides full functionalities for a banking system.
 
 * Tavana Group as **Software Developer** (**Tehran**, **Iran**)(**July 2013** - **October 2013**)
