@@ -12,7 +12,7 @@ Email: riahipour.ali [at] gmail.com
 
 Languages: **Swift**, **Objective-C**<br>
 Technologies: **REST APIs**, **Google Analytics**, **Firebase**, **Fastlane**<br>
-Architectures: **MVC**, **MVVM**, **VIPER**<br>
+Architectures: **MVC**, **MVVM**<br>
 Enviroments: **macOS**, **Xcode**, **Git**, **VIM**, **Visual Studio Code**<br>
 
 
