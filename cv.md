@@ -18,7 +18,7 @@ Enviroments: **macOS**, **Xcode**, **Git**, **VIM**, **Visual Studio Code**<br>
 
 ## Experience
 
-* Crvsh (Vodafone Deutschland) as **Senior iOS Developer** (**Berlin, **Germany**)(**January 2020** - **Current**)
+* Crvsh (Vodafone Deutschland) as **Senior iOS Developer** (**Berlin**, **Germany**)(**January 2020** - **Current**)
 
   * Crvsh is a subcomapny of Vodafone Deutschalnd
   * Responsible for developing new dashboard in V by Vodafone app
