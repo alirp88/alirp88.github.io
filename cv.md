@@ -18,7 +18,13 @@ Enviroments: **macOS**, **Xcode**, **Git**, **VIM**, **Visual Studio Code**<br>
 
 ## Experience
 
-* GASTROFIX GmbH as **Senior iOS Developer** (**Berlin**, **Germany**)(**May 2018** - **Current**)
+* Crvsh (Vodafone Deutschland) as **Senior iOS Developer** (**Berlin, **Germany**)(**January 2020** - **Current**)
+
+  * Crvsh is a subcomapny of Vodafone Deutschalnd
+  * Responsible for developing new dashboard in V by Vodafone app
+  * [https://apps.apple.com/de/app/v-by-vodafone/id1260955826](https://apps.apple.com/de/app/v-by-vodafone/id1260955826)
+
+* GASTROFIX GmbH as **Senior iOS Developer** (**Berlin**, **Germany**)(**May 2018** - **December 2019**)
 
   * GASTROFIX is an iPad POS application which mainly focuses on gastronomy businesses
   * Responsible for developing a new data model and business logic Swift package which integrated into our legacy application
